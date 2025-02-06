@@ -1,0 +1,7 @@
+"dataset_name": "miscellaneous"
+"description": "The following are multiple choice questions (with answers) about miscellaneous.\n\
+  \n"
+"include": "_var3shots_template_yaml"
+"tag": "mmlu_var3shots_other"
+"task": "mmlu_var3shots_miscellaneous"
+"task_alias": "miscellaneous"

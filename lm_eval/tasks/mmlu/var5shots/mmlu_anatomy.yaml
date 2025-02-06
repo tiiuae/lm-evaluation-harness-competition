@@ -1,0 +1,7 @@
+"dataset_name": "anatomy"
+"description": "The following are multiple choice questions (with answers) about anatomy.\n\
+  \n"
+"include": "_var5shots_template_yaml"
+"tag": "mmlu_var5shots_stem"
+"task": "mmlu_var5shots_anatomy"
+"task_alias": "anatomy"

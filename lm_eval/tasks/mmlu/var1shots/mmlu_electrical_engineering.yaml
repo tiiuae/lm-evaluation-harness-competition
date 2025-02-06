@@ -1,0 +1,7 @@
+"dataset_name": "electrical_engineering"
+"description": "The following are multiple choice questions (with answers) about electrical\
+  \ engineering.\n\n"
+"include": "_var1shots_template_yaml"
+"tag": "mmlu_var1shots_stem"
+"task": "mmlu_var1shots_electrical_engineering"
+"task_alias": "electrical engineering"

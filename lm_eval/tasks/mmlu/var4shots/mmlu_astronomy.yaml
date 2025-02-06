@@ -1,0 +1,7 @@
+"dataset_name": "astronomy"
+"description": "The following are multiple choice questions (with answers) about astronomy.\n\
+  \n"
+"include": "_var4shots_template_yaml"
+"tag": "mmlu_var4shots_stem"
+"task": "mmlu_var4shots_astronomy"
+"task_alias": "astronomy"

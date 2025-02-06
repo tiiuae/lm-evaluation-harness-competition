@@ -1,0 +1,7 @@
+"dataset_name": "virology"
+"description": "The following are multiple choice questions (with answers) about virology.\n\
+  \n"
+"include": "_var3shots_template_yaml"
+"tag": "mmlu_var3shots_other"
+"task": "mmlu_var3shots_virology"
+"task_alias": "virology"

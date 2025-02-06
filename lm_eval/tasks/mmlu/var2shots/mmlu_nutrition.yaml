@@ -1,0 +1,7 @@
+"dataset_name": "nutrition"
+"description": "The following are multiple choice questions (with answers) about nutrition.\n\
+  \n"
+"include": "_var2shots_template_yaml"
+"tag": "mmlu_var2shots_other"
+"task": "mmlu_var2shots_nutrition"
+"task_alias": "nutrition"

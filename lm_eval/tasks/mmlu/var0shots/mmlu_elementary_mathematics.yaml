@@ -1,0 +1,7 @@
+"dataset_name": "elementary_mathematics"
+"description": "The following are multiple choice questions (with answers) about elementary\
+  \ mathematics.\n\n"
+"include": "_var0shots_template_yaml"
+"tag": "mmlu_var0shots_stem"
+"task": "mmlu_var0shots_elementary_mathematics"
+"task_alias": "elementary mathematics"

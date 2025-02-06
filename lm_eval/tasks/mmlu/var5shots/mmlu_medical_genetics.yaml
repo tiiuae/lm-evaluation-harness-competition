@@ -1,0 +1,7 @@
+"dataset_name": "medical_genetics"
+"description": "The following are multiple choice questions (with answers) about medical\
+  \ genetics.\n\n"
+"include": "_var5shots_template_yaml"
+"tag": "mmlu_var5shots_other"
+"task": "mmlu_var5shots_medical_genetics"
+"task_alias": "medical genetics"

@@ -1,0 +1,7 @@
+"dataset_name": "business_ethics"
+"description": "The following are multiple choice questions (with answers) about business\
+  \ ethics.\n\n"
+"include": "_var5shots_template_yaml"
+"tag": "mmlu_var5shots_other"
+"task": "mmlu_var5shots_business_ethics"
+"task_alias": "business ethics"

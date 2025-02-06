@@ -1,0 +1,7 @@
+"dataset_name": "formal_logic"
+"description": "The following are multiple choice questions (with answers) about formal\
+  \ logic.\n\n"
+"include": "_var0shots_template_yaml"
+"tag": "mmlu_var0shots_humanities"
+"task": "mmlu_var0shots_formal_logic"
+"task_alias": "formal logic"
